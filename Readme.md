@@ -28,7 +28,7 @@ obfuscated.c
 The file contains the locked logic of the function used by oracle. \
 The function 'arf' takes all the inputs as arguments along with 7 keys.
 
-## SAT attack
+## SMT attack
 
 ### Installing dependencies
 ```
